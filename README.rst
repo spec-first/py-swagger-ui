@@ -1,3 +1,10 @@
+.. pull-quote::
+
+    ⚠️ This repository has been archived in favor of the original `swagger_ui_bundle`_ repository
+    which has been donated to spec-first.
+
+.. _swagger_ui_bundle: https://github.com/spec-first/swagger_ui_bundle
+
 py_swagger_ui
 =============
 This package contains the static files for swagger-ui as a python package.
